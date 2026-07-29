@@ -66,5 +66,5 @@
     "explorer.fileNesting.patterns": {
         "*.sln": "*.csproj"
     },
-    "dotnet.defaultSolution": "音ゲー(共同制作).sln"
+    "dotnet.defaultSolution": "Witch_Beat.sln"
 }
